@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitActionsTester", "GitActionsTester.csproj", "{CCFA65A3-5971-43A5-8C43-711C4E99E20F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCFA65A3-5971-43A5-8C43-711C4E99E20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFA65A3-5971-43A5-8C43-711C4E99E20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFA65A3-5971-43A5-8C43-711C4E99E20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFA65A3-5971-43A5-8C43-711C4E99E20F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC984F0B-FCBB-4D39-AD28-2297E6829A26}
+	EndGlobalSection
+EndGlobal
